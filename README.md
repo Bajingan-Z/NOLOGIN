@@ -15,7 +15,7 @@ apt upgrade
 pkg install git
 pkg install python
 pkg install python2
-git clonehttps://github.com/Bajingan-Z/NOLOGIN
+git clone https://github.com/Bajingan-Z/NOLOGIN
 cd NOLOGIN
 python2 NOLOGIN.py
 
